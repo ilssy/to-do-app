@@ -1,3 +1,5 @@
+This project was created while following the tutorial ["Learn React"](https://scrimba.com/g/glearnreact) by Bob Ziroll
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
